@@ -21,7 +21,7 @@ Inside the screen, one can launch scripts in window1 and results will appear in 
 ```bash
 sage batch_GCD.py
 ```
-![batch_GCD.py](../images/soc_batch_GCD.png)
+![batch_GCD.py](../images/soc_batch_GCD_dlink.png)
 
 ```bash
 sage search_modulus_Huawei.py
